@@ -1,2 +1,2 @@
 # viggs
-gwg
+a vnc server
